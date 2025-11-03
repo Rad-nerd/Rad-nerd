@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rad-nerd
 - 👀 I’m interested in IT/Ham-Radio/OBS-Studio/Linux/tornado-sirens
-- 💞️ I’m looking to collaborate on OpenWebRX+
 - 📫 How to reach me radtoyzandgames@gmail.com
-- ⚡ Fun fact: im only 13!
+- ⚡ Fun fact: im only 14!
 -Lucas
